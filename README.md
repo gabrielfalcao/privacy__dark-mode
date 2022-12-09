@@ -1,0 +1,3 @@
+# Oh yeah, I forgot nobody speaks portuguese...
+
+[HTTP 1.1\r\n\r\nSTATUS 302](LEIAME.md)
